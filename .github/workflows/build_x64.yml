@@ -1,4 +1,4 @@
-name: Build WsaPatch.dll
+name: Build WsaPatch.dll x64
 
 on:
   push:
